@@ -1,0 +1,12 @@
+Qual a população do país?
+R:6,781 milhoes
+extensão territorial?
+R:406.752,km
+Comidas típicas?
+R:sopa paraguai
+clima desse pais?
+R:predominio do clima seco nas regioes norte e nordeste clima tropical na parte central do pais
+vegetação?
+R:varia entre campos subtopicos e formaçoes alagadiças
+relevo?
+R:e contituido de olantes e apenas na região leste aparecem formacoes montanhosas,de pouca elevaçao,estruturalmente ligadas ao planalto brasileiro
